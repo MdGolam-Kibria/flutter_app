@@ -16,6 +16,7 @@ class HomeClass extends StatelessWidget {
           Container(
             decoration: BoxDecoration(
               color: Colors.black45,
+
             ),
             child:
             Text(
