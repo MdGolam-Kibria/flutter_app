@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class PowerFullListView extends StatelessWidget {
+class PowerFullListView extends StatelessWidget {//This is material list view in flutter
   String img =
       "https://montreal-mp7static.mlsdigital.net/images/Fruits.jpg?Au9YvSI4RxjmNREkFQa_KibQFU8Z_G.o";
   List list1 = [
