@@ -44,6 +44,7 @@ flutter:
   assets:
    - assets/apple.png
    - assets/fruit.webp
+   - assets/Fruits2.jpg
   #  - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
